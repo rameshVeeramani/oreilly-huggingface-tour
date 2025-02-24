@@ -1,8 +1,6 @@
-# Hugging Face in 4 Hours
+
 
 ![HF](images/hf.png)
-
-![O'Reilly](images/oreilly.png)
 
 
 This repository contains Jupyter notebooks for the courses ["Hugging Face in 4 Hours"](https://learning.oreilly.com/live-events/hugging-face-in-4-hours/0790145056533/0790145056525/) by [Sinan Ozdemir](https://sinanozdemir.ai). Published by Pearson, the course covers effective best practices and industry case studies in using Large Language Models (LLMs) from Hugging Face.
